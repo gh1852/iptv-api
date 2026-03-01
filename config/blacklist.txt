@@ -3,3 +3,6 @@
 /audio/
 bxtv.3a.ink
 txmov2.a.kwimgs.com
+222.223.41.27:8888/hls
+www.chutouge.top:34022
+111.127.156.214:51234
