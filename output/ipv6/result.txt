@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-02 21:48:14,http://140.210.14.156:1100/migu1/miguVIP.php?id=608807420
+2026-03-02 23:59:48,http://140.210.14.156:1100/migu1/miguVIP.php?id=608807420
 
 📺央视频道,#genre#
 CCTV-1,http://140.210.14.156:1100/migu1/miguVIP.php?id=608807420
@@ -82,13 +82,17 @@ CCTV-15,http://140.210.14.156:1100/migu2/miguVIP.php?id=673168223
 CCTV-15,http://140.210.14.156:1100/migu3/miguVIP.php?id=673168223
 CCTV-15,http://140.210.14.156:1100/migu4/miguVIP.php?id=673168223
 CCTV-15,http://140.210.14.156:1100/migu5/miguVIP.php?id=673168223
-CCTV-16,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=cctv16hd
-CCTV-16,http://k.061899.xyz/m.php?id=cctv16
+CCTV-16,http://140.210.14.115:8800/zhibo20260212/å¤®è§é¢/ysp.php?id=CCTV16
+CCTV-16,http://140.210.14.115:8800/zhibo20260212/å¤®è§é¢/ysp.php?id=CCTV164K
+CCTV-16,http://140.210.14.186:1100/ysp1/spzysp.php?id=CCTV164K
+CCTV-16,http://140.210.14.156:1100/ysp1/spzysp.php?id=CCTV164K
+CCTV-16,http://160.30.230.82:1100/ysp1/spzysp.php?id=CCTV164K
 CCTV-17,http://140.210.14.156:1100/migu1/miguVIP.php?id=673168256
 CCTV-17,http://140.210.14.156:1100/migu2/miguVIP.php?id=673168256
 CCTV-17,http://140.210.14.156:1100/migu3/miguVIP.php?id=673168256
 CCTV-17,http://140.210.14.156:1100/migu4/miguVIP.php?id=673168256
 CCTV-17,http://140.210.14.156:1100/migu5/miguVIP.php?id=673168256
+CETV-1,http://140.210.14.115:8800/zhibo20260212/å¤®è§é¢/ysp.php?id=CETV1
 CETV-1,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=zgjy1hd
 CETV-4,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=zgjy4
 
