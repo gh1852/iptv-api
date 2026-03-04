@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-03 20:26:46,http://k.061899.xyz/m.php?id=cctv1&key=txiptv&playlive=1&authid=0
+2026-03-04 18:18:28,http://k.061899.xyz/m.php?id=cctv1&key=txiptv&playlive=1&authid=0
 
 📺央视频道,#genre#
 CCTV-1,http://k.061899.xyz/m.php?id=cctv1&key=txiptv&playlive=1&authid=0
@@ -39,6 +39,8 @@ CCTV-17,http://k.061899.xyz/m.php?id=cctv17&key=txiptv&playlive=1&authid=0
 CCTV-17,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=cctv14hd
 CETV-1,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=zgjy1hd
 CETV-4,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=zgjy4
+
+💰央视经典频道,#genre#
 
 📡卫视频道,#genre#
 湖南卫视,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=hnwshd
@@ -91,3 +93,5 @@ CETV-4,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=zgjy4
 新疆卫视,http://k.061899.xyz/m.php?id=xjws&key=txiptv&playlive=1&authid=0
 新疆卫视,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=xjws
 云南卫视,https://iptv.666230.xyz/公众号睡眼迷离的猫/hbgd.php?id=ynws
+
+☘️湖南频道,#genre#
