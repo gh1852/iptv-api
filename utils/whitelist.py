@@ -147,7 +147,6 @@ def get_section_entries(path: str = constants.whitelist_path, section: str = "WH
         for raw in f:
             line = raw.rstrip("\n")
             s = line.strip()
-            print(s)
             if not s:
                 continue
 
