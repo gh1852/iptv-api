@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-09 07:32:42,http://k.061899.xyz/m.php?id=cctv1&key=txiptv&playlive=1&authid=0
+2026-03-10 07:36:08,http://k.061899.xyz/m.php?id=cctv1&key=txiptv&playlive=1&authid=0
 
 📺央视频道,#genre#
 CCTV-1,http://k.061899.xyz/m.php?id=cctv1&key=txiptv&playlive=1&authid=0
