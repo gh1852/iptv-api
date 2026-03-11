@@ -12,3 +12,5 @@
 [KEYWORDS]
 # 以下区域是关键字白名单，某频道获取到的接口地址中含有指定关键字，则该接口会被加入该频道的白名单，多条记录换行输入。
 # This area is the keyword whitelist. If the interface address obtained by a certain channel contains the specified keyword, the interface will be added to the whitelist of the channel, with multiple records entered on new lines.
+223.144.220.92:3000
+140.210.14.186:1100
