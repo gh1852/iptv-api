@@ -6,9 +6,6 @@ CCTV-1,http://107.150.60.122/live/cctv1hd.m3u8
 CCTV-1,http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV-1,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
 CCTV-1,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
-CCTV-1,http://113.251.226.95:8003/rtp/235.254.198.59:1512
-CCTV-1,http://113.251.226.95:8003/rtp/235.254.198.60:1516
-CCTV-1,http://1501.lijiuyu.baby:9999/rtp/239.253.224.89:8000
 CCTV-1,http://1501.lijiuyu.baby:9999/rtp/239.253.224.77:8000
 CCTV-1,http://kodbox.guangyuan.site:8188/rtp/239.77.0.129:5146
 CCTV-1,http://alist.guangyuan.site:8188/rtp/239.77.0.129:5146
