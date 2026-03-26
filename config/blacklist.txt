@@ -12,3 +12,4 @@ iptv.catvod.com
 122.152.202.33
 itms3.sdlk.vip:3333
 t.live.cntv.cn
+61.221.215.25:8800
