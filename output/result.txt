@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-10-23 09:25:22,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
+2026-10-24 09:29:51,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
 
 📺央视频道,#genre#
 CCTV-1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
@@ -13,6 +13,7 @@ CCTV-1,http://38.75.136.137:82/live1/jsb.m3u8?id=cctv1hd&ip=whus08&usign=bn1v5XD
 CCTV-1,http://38.75.136.137:82/live1/jsb.m3u8?id=cctv1hd&ip=whus30&usign=bn1v5XD4HwZYls3Q0rEP0A
 CCTV-1,http://38.75.136.137:82/live1/jsb.m3u8?id=cctv1hd&ip=whus12&usign=bn1v5XD4HwZYls3Q0rEP0A
 CCTV-2,http://74.91.26.218:82/live/cctv2hd.m3u8
+CCTV-2,http://192.151.150.154/live/cctv2hd.m3u8
 CCTV-2,http://107.150.60.122/live/cctv2hd.m3u8
 CCTV-2,http://38.75.136.137:82/live1/cctv2.m3u8?id=cctv2hd&usign=bn1v5XD4HwZYls3Q0rEP0A
 CCTV-2,http://38.75.136.137:82/live1/jsb.m3u8?id=cctv2hd&usign=bn1v5XD4HwZYls3Q0rEP0A
@@ -21,10 +22,8 @@ CCTV-2,http://38.75.136.137:82/live1/jsb1.m3u8?id=cctv2hd&usign=bn1v5XD4HwZYls3Q
 CCTV-2,http://38.75.136.137:82/live1/jsb.m3u8?id=cctv2hd&ip=whus09&usign=bn1v5XD4HwZYls3Q0rEP0A
 CCTV-2,http://38.75.136.137:82/live1/jsb.m3u8?id=cctv2hd&ip=whus27&usign=bn1v5XD4HwZYls3Q0rEP0A
 CCTV-2,http://38.75.136.137:82/live1/jsb.m3u8?id=cctv2hd&ip=whus28&usign=bn1v5XD4HwZYls3Q0rEP0A
-CCTV-2,http://38.75.136.137:82/live1/jsb.m3u8?id=cctv2hd&ip=whus22&usign=bn1v5XD4HwZYls3Q0rEP0A
 CCTV-3,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv3hd
 CCTV-3,http://74.91.26.218:82/live/cctv3hd.m3u8
-CCTV-3,http://69.30.245.50/live/cctv3.m3u8
 CCTV-3,http://107.150.60.122/live/cctv3hd.m3u8
 CCTV-3,http://38.75.136.137:82/live1/jsb.m3u8?id=cctv3hd&usign=bn1v5XD4HwZYls3Q0rEP0A
 CCTV-3,http://38.75.136.137:82/live1/dsdq.m3u8?id=cctv3hd&usign=bn1v5XD4HwZYls3Q0rEP0A
@@ -32,8 +31,9 @@ CCTV-3,http://38.75.136.137:82/live1/jsb1.m3u8?id=cctv3hd&usign=bn1v5XD4HwZYls3Q
 CCTV-3,http://38.75.136.137:82/live1/jsb.m3u8?id=cctv3hd&ip=whus08&usign=bn1v5XD4HwZYls3Q0rEP0A
 CCTV-3,http://38.75.136.137:82/live1/jsb.m3u8?id=cctv3hd&ip=whus28&usign=bn1v5XD4HwZYls3Q0rEP0A
 CCTV-3,http://38.75.136.137:82/live1/jsb.m3u8?id=cctv3hd&ip=whus30&usign=bn1v5XD4HwZYls3Q0rEP0A
+CCTV-3,http://38.75.136.137:82/live1/jsb.m3u8?id=cctv3hd&ip=whus02&usign=bn1v5XD4HwZYls3Q0rEP0A
 CCTV-4,http://74.91.26.218:82/live/cctv4hd.m3u8
-CCTV-4,http://173.208.212.130:8181/1080p/cctv4.m3u8
+CCTV-4,http://207.56.13.146:81/cdnlive/cctv4.m3u8
 CCTV-4,http://107.150.60.122/live/cctv4hd.m3u8
 CCTV-4,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
 CCTV-4,http://38.75.136.137:82/live1/jsb.m3u8?id=cctv4hd&usign=bn1v5XD4HwZYls3Q0rEP0A
@@ -43,7 +43,7 @@ CCTV-4,http://38.75.136.137:82/live1/jsb.m3u8?id=cctv4hd&ip=whus08&usign=bn1v5XD
 CCTV-4,http://38.75.136.137:82/live1/jsb.m3u8?id=cctv4hd&ip=whus27&usign=bn1v5XD4HwZYls3Q0rEP0A
 CCTV-4,http://38.75.136.137:82/live1/jsb.m3u8?id=cctv4hd&ip=whus04&usign=bn1v5XD4HwZYls3Q0rEP0A
 CCTV-5,http://74.91.26.218:82/live/cctv5hd.m3u8
-CCTV-5,http://173.208.212.130:8181/720p/cctv5.m3u8
+CCTV-5,http://207.56.13.146:81/cdnlive/cctv5.m3u8
 CCTV-5,http://107.150.60.122/live/cctv5hd.m3u8
 CCTV-5,http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
 CCTV-5,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
@@ -64,7 +64,6 @@ CCTV-5+,http://38.75.136.137:82/live1/jsb.m3u8?id=cctv5p&ip=whus06&usign=bn1v5XD
 CCTV-5+,http://38.75.136.137:82/live1/jsb.m3u8?id=cctv5p&ip=whus17&usign=bn1v5XD4HwZYls3Q0rEP0A
 CCTV-6,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv6hd
 CCTV-6,http://74.91.26.218:82/live/cctv6hd.m3u8
-CCTV-6,http://69.30.245.50/live/cctv6.m3u8
 CCTV-6,http://198.204.240.250:82/live/cctv6.m3u8
 CCTV-6,http://107.150.60.122/live/cctv6hd.m3u8
 CCTV-6,http://38.75.136.137:82/live1/jsb.m3u8?id=cctv6hd&usign=bn1v5XD4HwZYls3Q0rEP0A
@@ -72,9 +71,10 @@ CCTV-6,http://38.75.136.137:82/live1/dsdq.m3u8?id=cctv6hd&usign=bn1v5XD4HwZYls3Q
 CCTV-6,http://38.75.136.137:82/live1/jsb1.m3u8?id=cctv6hd&usign=bn1v5XD4HwZYls3Q0rEP0A
 CCTV-6,http://38.75.136.137:82/live1/jsb.m3u8?id=cctv6hd&ip=whus08&usign=bn1v5XD4HwZYls3Q0rEP0A
 CCTV-6,http://38.75.136.137:82/live1/jsb.m3u8?id=cctv6hd&ip=whus27&usign=bn1v5XD4HwZYls3Q0rEP0A
+CCTV-6,http://38.75.136.137:82/live1/jsb.m3u8?id=cctv6hd&ip=whus13&usign=bn1v5XD4HwZYls3Q0rEP0A
 CCTV-7,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv7hd
 CCTV-7,http://74.91.26.218:82/live/cctv7hd.m3u8
-CCTV-7,http://69.30.245.50/live/cctv7.m3u8
+CCTV-7,http://207.56.13.146:81/cdnlive/cctv7.m3u8
 CCTV-7,http://107.150.60.122/live/cctv7hd.m3u8
 CCTV-7,http://38.75.136.137:82/live1/jsb.m3u8?id=cctv7hd&usign=bn1v5XD4HwZYls3Q0rEP0A
 CCTV-7,http://38.75.136.137:82/live1/dsdq.m3u8?id=cctv7hd&usign=bn1v5XD4HwZYls3Q0rEP0A
@@ -84,7 +84,7 @@ CCTV-7,http://38.75.136.137:82/live1/jsb.m3u8?id=cctv7hd&ip=whus22&usign=bn1v5XD
 CCTV-7,http://38.75.136.137:82/live1/jsb.m3u8?id=cctv7hd&ip=whus04&usign=bn1v5XD4HwZYls3Q0rEP0A
 CCTV-8,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv8k
 CCTV-8,http://74.91.26.218:82/live/cctv8hd.m3u8
-CCTV-8,http://69.30.245.50/live/cctv8.m3u8
+CCTV-8,http://207.56.13.146:81/cdnlive/cctv8.m3u8
 CCTV-8,http://107.150.60.122/live/cctv8hd.m3u8
 CCTV-8,http://38.75.136.137:82/live1/jsb.m3u8?id=cctv8hd&usign=bn1v5XD4HwZYls3Q0rEP0A
 CCTV-8,http://38.75.136.137:82/live1/dsdq.m3u8?id=cctv8hd&usign=bn1v5XD4HwZYls3Q0rEP0A
@@ -94,6 +94,7 @@ CCTV-8,http://38.75.136.137:82/live1/jsb.m3u8?id=cctv8hd&ip=whus08&usign=bn1v5XD
 CCTV-8,http://38.75.136.137:82/live1/jsb.m3u8?id=cctv8hd&ip=whus27&usign=bn1v5XD4HwZYls3Q0rEP0A
 CCTV-9,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv9hd
 CCTV-9,http://74.91.26.218:82/live/cctv9hd.m3u8
+CCTV-9,http://192.151.150.154/live/cctv9hd.m3u8
 CCTV-9,http://107.150.60.122/live/cctv9hd.m3u8
 CCTV-9,http://38.75.136.137:82/live1/jsb.m3u8?id=cctv9hd&usign=bn1v5XD4HwZYls3Q0rEP0A
 CCTV-9,http://38.75.136.137:82/live1/dsdq.m3u8?id=cctv9hd&usign=bn1v5XD4HwZYls3Q0rEP0A
@@ -101,9 +102,7 @@ CCTV-9,http://38.75.136.137:82/live1/jsb1.m3u8?id=cctv9hd&usign=bn1v5XD4HwZYls3Q
 CCTV-9,http://38.75.136.137:82/live1/jsb.m3u8?id=cctv9hd&ip=whus09&usign=bn1v5XD4HwZYls3Q0rEP0A
 CCTV-9,http://38.75.136.137:82/live1/jsb.m3u8?id=cctv9hd&ip=whus22&usign=bn1v5XD4HwZYls3Q0rEP0A
 CCTV-9,http://38.75.136.137:82/live1/jsb.m3u8?id=cctv9hd&ip=whus04&usign=bn1v5XD4HwZYls3Q0rEP0A
-CCTV-9,http://38.75.136.137:82/live1/jsb.m3u8?id=cctv9hd&ip=whus14&usign=bn1v5XD4HwZYls3Q0rEP0A
 CCTV-10,http://74.91.26.218:82/live/cctv10hd.m3u8
-CCTV-10,http://69.30.245.50/live/cctv10.m3u8
 CCTV-10,http://38.75.136.137:98/gslb/dsdqbv/cctv10hd.m3u8?auth=test20251009
 CCTV-10,http://38.75.136.137:82/live1/jsb.m3u8?id=cctv10hd&usign=bn1v5XD4HwZYls3Q0rEP0A
 CCTV-10,http://38.75.136.137:82/live1/dsdq.m3u8?id=cctv10hd&usign=bn1v5XD4HwZYls3Q0rEP0A
@@ -112,6 +111,7 @@ CCTV-10,http://38.75.136.137:82/live1/jsb.m3u8?id=cctv10hd&ip=whus12&usign=bn1v5
 CCTV-10,http://38.75.136.137:82/live1/jsb.m3u8?id=cctv10hd&ip=opfr02&usign=bn1v5XD4HwZYls3Q0rEP0A
 CCTV-10,http://38.75.136.137:82/live1/jsb.m3u8?id=cctv10hd&ip=whus04&usign=bn1v5XD4HwZYls3Q0rEP0A
 CCTV-10,http://38.75.136.137:82/live1/jsb.m3u8?id=cctv10hd&ip=whus15&usign=bn1v5XD4HwZYls3Q0rEP0A
+CCTV-10,http://38.75.136.137:82/live1/jsb.m3u8?id=cctv10hd&ip=whus14&usign=bn1v5XD4HwZYls3Q0rEP0A
 CCTV-11,http://74.91.26.218:82/live/cctv11hd.m3u8
 CCTV-11,http://107.150.60.122/live/cctv11hd.m3u8
 CCTV-11,http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009
@@ -134,7 +134,6 @@ CCTV-12,http://38.75.136.137:82/live1/jsb.m3u8?id=cctv12hd&ip=whus28&usign=bn1v5
 CCTV-12,http://38.75.136.137:82/live1/jsb.m3u8?id=cctv12hd&ip=whus11&usign=bn1v5XD4HwZYls3Q0rEP0A
 CCTV-13,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv13hd
 CCTV-13,http://74.91.26.218:82/live/cctv13hd.m3u8
-CCTV-13,http://173.208.212.130:8181/1080p/cctv13.m3u8
 CCTV-13,http://107.150.60.122/live/cctv13hd.m3u8
 CCTV-13,http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
 CCTV-13,http://38.75.136.137:82/live1/jsb.m3u8?id=cctv13hd&usign=bn1v5XD4HwZYls3Q0rEP0A
@@ -142,9 +141,9 @@ CCTV-13,http://38.75.136.137:82/live1/dsdq.m3u8?id=cctv13hd&usign=bn1v5XD4HwZYls
 CCTV-13,http://38.75.136.137:82/live1/jsb1.m3u8?id=cctv13hd&usign=bn1v5XD4HwZYls3Q0rEP0A
 CCTV-13,http://38.75.136.137:82/live1/jsb.m3u8?id=cctv13hd&ip=whus08&usign=bn1v5XD4HwZYls3Q0rEP0A
 CCTV-13,http://38.75.136.137:82/live1/jsb.m3u8?id=cctv13hd&ip=whus28&usign=bn1v5XD4HwZYls3Q0rEP0A
+CCTV-13,http://38.75.136.137:82/live1/jsb.m3u8?id=cctv13hd&ip=whus29&usign=bn1v5XD4HwZYls3Q0rEP0A
 CCTV-14,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv14hd
 CCTV-14,http://74.91.26.218:82/live/cctv14hd.m3u8
-CCTV-14,http://173.208.212.130:8181/1080p/cctv14.m3u8
 CCTV-14,http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
 CCTV-14,http://38.75.136.137:82/live1/jsb.m3u8?id=cctv14hd&usign=bn1v5XD4HwZYls3Q0rEP0A
 CCTV-14,http://38.75.136.137:82/live1/dsdq.m3u8?id=cctv14hd&usign=bn1v5XD4HwZYls3Q0rEP0A
@@ -152,9 +151,9 @@ CCTV-14,http://38.75.136.137:82/live1/jsb1.m3u8?id=cctv14hd&usign=bn1v5XD4HwZYls
 CCTV-14,http://38.75.136.137:82/live1/jsb.m3u8?id=cctv14hd&ip=whus27&usign=bn1v5XD4HwZYls3Q0rEP0A
 CCTV-14,http://38.75.136.137:82/live1/jsb.m3u8?id=cctv14hd&ip=whus29&usign=bn1v5XD4HwZYls3Q0rEP0A
 CCTV-14,http://38.75.136.137:82/live1/jsb.m3u8?id=cctv14hd&ip=whus11&usign=bn1v5XD4HwZYls3Q0rEP0A
+CCTV-14,http://38.75.136.137:82/live1/jsb.m3u8?id=cctv14hd&ip=opfr02&usign=bn1v5XD4HwZYls3Q0rEP0A
 CCTV-15,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv15hd
 CCTV-15,http://74.91.26.218:82/live/cctv15hd.m3u8
-CCTV-15,http://173.208.212.130:8181/1080p/cctv15.m3u8
 CCTV-15,http://107.150.60.122/live/cctv15hd.m3u8
 CCTV-15,http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
 CCTV-15,http://38.75.136.137:98/gslb/dsdqca/cctv15hd.m3u8?auth=test20251009
@@ -162,8 +161,10 @@ CCTV-15,http://38.75.136.137:98/gslb/dsdqpub/cctv15hd.m3u8?auth=testpub
 CCTV-15,http://38.75.136.137:82/live1/jsb.m3u8?id=cctv15hd&usign=bn1v5XD4HwZYls3Q0rEP0A
 CCTV-15,http://38.75.136.137:82/live1/dsdq.m3u8?id=cctv15hd&usign=bn1v5XD4HwZYls3Q0rEP0A
 CCTV-15,http://38.75.136.137:82/live1/jsb1.m3u8?id=cctv15hd&usign=bn1v5XD4HwZYls3Q0rEP0A
+CCTV-15,http://38.75.136.137:82/live1/jsb.m3u8?id=cctv15hd&ip=whus29&usign=bn1v5XD4HwZYls3Q0rEP0A
 CCTV-16,http://173.208.234.146/live/cctv16.m3u8
 CCTV-16,http://74.91.26.218:82/live/cctv16hd.m3u8
+CCTV-16,http://207.56.13.146:81/cdnlive/cctv16.m3u8
 CCTV-16,http://107.150.60.122/live/cctv16hd.m3u8
 CCTV-16,http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 CCTV-16,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
@@ -171,7 +172,6 @@ CCTV-16,http://38.75.136.137:82/live1/jsb.m3u8?id=cctv16hd&usign=bn1v5XD4HwZYls3
 CCTV-16,http://38.75.136.137:82/live1/dsdq.m3u8?id=cctv16hd&usign=bn1v5XD4HwZYls3Q0rEP0A
 CCTV-16,http://38.75.136.137:82/live1/jsb1.m3u8?id=cctv16hd&usign=bn1v5XD4HwZYls3Q0rEP0A
 CCTV-16,http://38.75.136.137:82/live1/jsb.m3u8?id=cctv16hd&ip=whus09&usign=bn1v5XD4HwZYls3Q0rEP0A
-CCTV-16,http://38.75.136.137:82/live1/jsb.m3u8?id=cctv16hd&ip=whus29&usign=bn1v5XD4HwZYls3Q0rEP0A
 CCTV-17,https://live.264788.xyz/channel/cctv17?streamid=348c8c0c04a6d2b900e5a3bcb4af8ce1&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV-17,https://live.264788.xyz/channel/cctv17?streamid=f9c36f1e95b5b35eac89cc89583e7c0a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV-17,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv17hd
@@ -182,8 +182,8 @@ CCTV-17,http://38.75.136.137:82/live1/dsdq.m3u8?id=cctv17hd&usign=bn1v5XD4HwZYls
 CCTV-17,http://38.75.136.137:82/live1/jsb1.m3u8?id=cctv17hd&usign=bn1v5XD4HwZYls3Q0rEP0A
 CCTV-17,http://38.75.136.137:82/live1/jsb.m3u8?id=cctv17hd&ip=whus09&usign=bn1v5XD4HwZYls3Q0rEP0A
 CCTV-17,http://38.75.136.137:82/live1/jsb.m3u8?id=cctv17hd&ip=whus29&usign=bn1v5XD4HwZYls3Q0rEP0A
-CETV-1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1hd
 CETV-1,https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
+CETV-1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1hd
 CETV-1,http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
 CETV-1,http://38.75.136.137:82/live1/jsb.m3u8?id=cetv1hd&usign=bn1v5XD4HwZYls3Q0rEP0A
 CETV-1,http://38.75.136.137:82/live1/jsb1.m3u8?id=cetv1hd&usign=bn1v5XD4HwZYls3Q0rEP0A
@@ -206,7 +206,7 @@ CETV-3,http://38.75.136.137:82/live1/jsb1.m3u8?id=cetv3&usign=bn1v5XD4HwZYls3Q0r
 CETV-3,http://38.75.136.137:82/live1/jsb.m3u8?id=cetv3&ip=whus24&usign=bn1v5XD4HwZYls3Q0rEP0A
 CETV-3,http://38.75.136.137:82/live1/jsb.m3u8?id=cetv3&ip=whus19&usign=bn1v5XD4HwZYls3Q0rEP0A
 CETV-3,http://38.75.136.137:82/live1/jdtv2.m3u8?id=cetv3&usign=bn1v5XD4HwZYls3Q0rEP0A
-CETV-3,http://204.12.221.218:8181/3m1080p/cetv3.m3u8
+CETV-3,http://198.204.228.26/live/cetv3.m3u8
 CETV-4,http://38.75.136.137:82/live1/jsb.m3u8?id=cetv4&usign=bn1v5XD4HwZYls3Q0rEP0A
 CETV-4,http://38.75.136.137:82/live1/jsb1.m3u8?id=cetv4&usign=bn1v5XD4HwZYls3Q0rEP0A
 CETV-4,http://38.75.136.137:82/live1/jsb.m3u8?id=cetv4&ip=whus24&usign=bn1v5XD4HwZYls3Q0rEP0A
@@ -217,13 +217,15 @@ CETV-4,http://38.75.136.137:82/live1/jdtv2.m3u8?id=cetv4&usign=bn1v5XD4HwZYls3Q0
 文化精品,https://live.264788.xyz/channel/yangshiwenhuajingpin?streamid=bc185d1ef1e528922e83efd845006277&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 文化精品,https://live.264788.xyz/channel/yangshiwenhuajingpin?streamid=618d33181dba2b51e9d3752d73d737b8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 文化精品,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ysjp
+文化精品,http://192.151.150.154/live/ysjp.m3u8
+文化精品,http://207.56.13.146:81/cdnlive/ysjp.m3u8
 文化精品,http://107.150.60.122/live/ysjp.m3u8
 文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
 文化精品,http://38.75.136.137:82/live1/jsb.m3u8?id=ysjp&usign=bn1v5XD4HwZYls3Q0rEP0A
 文化精品,http://38.75.136.137:82/live1/jsb1.m3u8?id=ysjp&usign=bn1v5XD4HwZYls3Q0rEP0A
 文化精品,http://38.75.136.137:82/live1/jdtv2.m3u8?id=ysjp&usign=bn1v5XD4HwZYls3Q0rEP0A
-文化精品,http://192.151.150.154/live/ysjp.m3u8
 央视台球,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ystq
+央视台球,http://207.56.13.146:81/cdnlive/ystq.m3u8
 央视台球,http://107.150.60.122/live/ystq.m3u8
 央视台球,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
 央视台球,http://38.75.136.137:82/live1/jsb.m3u8?id=ystq&usign=bn1v5XD4HwZYls3Q0rEP0A
@@ -235,6 +237,7 @@ CETV-4,http://38.75.136.137:82/live1/jdtv2.m3u8?id=cetv4&usign=bn1v5XD4HwZYls3Q0
 风云音乐,https://live.264788.xyz/channel/fengyunyinyue?streamid=be37d16b874e7ba11dd383d7ecd75752&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 风云音乐,https://live.264788.xyz/channel/fengyunyinyue?streamid=1b41fb9153cba3ee19bd5d1b323da27e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 风云音乐,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyyy
+风云音乐,http://207.56.13.146:81/cdnlive/fyyy.m3u8
 风云音乐,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
 风云音乐,http://38.75.136.137:82/live1/jsb.m3u8?id=fyyy&usign=bn1v5XD4HwZYls3Q0rEP0A
 风云音乐,http://38.75.136.137:82/live1/jsb1.m3u8?id=fyyy&usign=bn1v5XD4HwZYls3Q0rEP0A
@@ -244,16 +247,15 @@ CETV-4,http://38.75.136.137:82/live1/jdtv2.m3u8?id=cetv4&usign=bn1v5XD4HwZYls3Q0
 第一剧场,https://live.264788.xyz/channel/diyijuchang?streamid=e9b0fb1ca135a4aeae12944494883794&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 第一剧场,https://live.264788.xyz/channel/diyijuchang?streamid=d81e188b59ece96b7e8f1ce34aea3ef8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 第一剧场,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dyjc
-第一剧场,http://173.208.212.130:8181/720p/dyjc.m3u8
 第一剧场,http://107.150.60.122/live/dyjc.m3u8
 第一剧场,http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
 第一剧场,http://38.75.136.137:82/live1/jsb.m3u8?id=dyjc&usign=bn1v5XD4HwZYls3Q0rEP0A
 第一剧场,http://38.75.136.137:82/live1/jsb1.m3u8?id=dyjc&usign=bn1v5XD4HwZYls3Q0rEP0A
 第一剧场,http://38.75.136.137:82/live1/jsb.m3u8?id=dyjc&ip=whus09&usign=bn1v5XD4HwZYls3Q0rEP0A
 第一剧场,http://38.75.136.137:82/live1/jsb.m3u8?id=dyjc&ip=whus10&usign=bn1v5XD4HwZYls3Q0rEP0A
+第一剧场,http://38.75.136.137:82/live1/jsb.m3u8?id=dyjc&ip=whus22&usign=bn1v5XD4HwZYls3Q0rEP0A
 风云剧场,https://live.264788.xyz/channel/fengyunjuchang?streamid=31e7b5b7032d25dd215a4069cdee1a48&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 风云剧场,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyjc
-风云剧场,http://173.208.212.130:8181/720p/fyjc.m3u8
 风云剧场,http://107.150.60.122/live/fyjc.m3u8
 风云剧场,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
 风云剧场,http://38.75.136.137:82/live1/jsb.m3u8?id=fyjc&usign=bn1v5XD4HwZYls3Q0rEP0A
@@ -261,6 +263,7 @@ CETV-4,http://38.75.136.137:82/live1/jdtv2.m3u8?id=cetv4&usign=bn1v5XD4HwZYls3Q0
 风云剧场,http://38.75.136.137:82/live1/jsb.m3u8?id=fyjc&ip=whus09&usign=bn1v5XD4HwZYls3Q0rEP0A
 风云剧场,http://38.75.136.137:82/live1/jsb.m3u8?id=fyjc&ip=whus10&usign=bn1v5XD4HwZYls3Q0rEP0A
 风云剧场,http://38.75.136.137:82/live1/jsb.m3u8?id=fyjc&ip=whus22&usign=bn1v5XD4HwZYls3Q0rEP0A
+风云剧场,http://38.75.136.137:82/live1/jdtv2.m3u8?id=fyjc&usign=bn1v5XD4HwZYls3Q0rEP0A
 怀旧剧场,https://live.264788.xyz/channel/huaijiujuchang?streamid=7e5d1abdddde08f588234f3f640f75ff&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 怀旧剧场,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hjjc
 怀旧剧场,http://107.150.60.122/live/hjjc.m3u8
@@ -272,6 +275,8 @@ CETV-4,http://38.75.136.137:82/live1/jdtv2.m3u8?id=cetv4&usign=bn1v5XD4HwZYls3Q0
 怀旧剧场,http://38.75.136.137:82/live2/bfgd.m3u8?id=4200000224&usign=bn1v5XD4HwZYls3Q0rEP0A
 怀旧剧场,http://38.75.136.137:82/live1/jdtv2.m3u8?id=hjjc&usign=bn1v5XD4HwZYls3Q0rEP0A
 女性时尚,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nxss
+女性时尚,http://192.151.150.154/live/nxss.m3u8
+女性时尚,http://207.56.13.146:81/cdnlive/nxss.m3u8
 女性时尚,http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
 女性时尚,http://38.75.136.137:82/live1/jsb.m3u8?id=nxss&usign=bn1v5XD4HwZYls3Q0rEP0A
 女性时尚,http://38.75.136.137:82/live1/jsb.m3u8?id=nxss&ip=psus02&usign=bn1v5XD4HwZYls3Q0rEP0A
@@ -279,8 +284,7 @@ CETV-4,http://38.75.136.137:82/live1/jdtv2.m3u8?id=cetv4&usign=bn1v5XD4HwZYls3Q0
 女性时尚,http://38.75.136.137:82/live1/jsb.m3u8?id=nxss&ip=whus03&usign=bn1v5XD4HwZYls3Q0rEP0A
 女性时尚,http://38.75.136.137:82/live1/jsb.m3u8?id=nxss&ip=whus21&usign=bn1v5XD4HwZYls3Q0rEP0A
 女性时尚,http://38.75.136.137:82/live2/bfgd.m3u8?id=4200000176&usign=bn1v5XD4HwZYls3Q0rEP0A
-女性时尚,http://38.75.136.137:82/live1/jdtv2.m3u8?id=nxss&usign=bn1v5XD4HwZYls3Q0rEP0A
-女性时尚,http://192.151.150.154/live/nxss.m3u8
+高尔夫网球,http://207.56.13.146:81/cdnlive/gefwq.m3u8
 高尔夫网球,http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
 高尔夫网球,http://38.75.136.137:82/live1/jsb.m3u8?id=gefwq&usign=bn1v5XD4HwZYls3Q0rEP0A
 高尔夫网球,http://38.75.136.137:82/live1/jsb1.m3u8?id=gefwq&usign=bn1v5XD4HwZYls3Q0rEP0A
@@ -288,6 +292,7 @@ CETV-4,http://38.75.136.137:82/live1/jdtv2.m3u8?id=cetv4&usign=bn1v5XD4HwZYls3Q0
 高尔夫网球,http://38.75.136.137:82/live1/jsb.m3u8?id=gefwq&ip=whus24&usign=bn1v5XD4HwZYls3Q0rEP0A
 高尔夫网球,http://38.75.136.137:82/live1/jdtv2.m3u8?id=gefwq&usign=bn1v5XD4HwZYls3Q0rEP0A
 风云足球,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyzq
+风云足球,http://207.56.13.146:81/cdnlive/fyzq.m3u8
 风云足球,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 风云足球,http://38.75.136.137:82/live1/jsb.m3u8?id=fyzq&usign=bn1v5XD4HwZYls3Q0rEP0A
 风云足球,http://38.75.136.137:82/live1/jsb.m3u8?id=fyzq&ip=psus02&usign=bn1v5XD4HwZYls3Q0rEP0A
@@ -306,15 +311,15 @@ CETV-4,http://38.75.136.137:82/live1/jdtv2.m3u8?id=cetv4&usign=bn1v5XD4HwZYls3Q0
 老故事,http://38.75.136.137:82/live1/jdtv2.m3u8?id=cwjd&usign=bn1v5XD4HwZYls3Q0rEP0A
 老故事,http://38.75.136.137:82/live1/jsb.m3u8?id=lgs&usign=bn1v5XD4HwZYls3Q0rEP0A
 中学生,http://38.75.136.137:82/live1/jdtv2.m3u8?id=zxs&usign=bn1v5XD4HwZYls3Q0rEP0A
-CGTN,https://english-liveali.cgtn.com/hls/yypdyyctzb/yypdyyctzbcd/playlist.m3u8
-CGTN,https://english-liveali.cgtn.com/hls/yypdyyctzb/yypdyyctzbhd/playlist.m3u8
-CGTN,https://english-liveali.cgtn.com/hls/yypdyyctzb/playlist.m3u8
 CGTN,http://38.75.136.137:82/live1/xuexi.m3u8?id=cctvnews&usign=bn1v5XD4HwZYls3Q0rEP0A
 CGTN,http://38.75.136.137:82/live1/xuexi1.m3u8?id=cctvnews&usign=bn1v5XD4HwZYls3Q0rEP0A
 CGTN,http://38.75.136.137:82/live1/jdtv2.m3u8?id=cctvnews&usign=bn1v5XD4HwZYls3Q0rEP0A
 CGTN,http://38.75.136.137:82/live1/jdtv2.m3u8?isp=dx&id=cctvnews&usign=bn1v5XD4HwZYls3Q0rEP0A
 CGTN,http://38.75.136.137:82/live1/jdtv2.m3u8?isp=lt&id=cctvnews&usign=bn1v5XD4HwZYls3Q0rEP0A
 CGTN,http://38.75.136.137:82/live2/bfgd.m3u8?id=4200000134&usign=bn1v5XD4HwZYls3Q0rEP0A
+CGTN,https://english-liveali.cgtn.com/hls/yypdyyctzb/yypdyyctzbcd/playlist.m3u8
+CGTN,https://english-liveali.cgtn.com/hls/yypdyyctzb/yypdyyctzbhd/playlist.m3u8
+CGTN,https://english-liveali.cgtn.com/hls/yypdyyctzb/playlist.m3u8
 CGTN,http://play.kankanlive.com/live/1698423645566913.m3u8
 发现之旅,http://38.75.136.137:82/live1/jsb.m3u8?id=fxzl&usign=bn1v5XD4HwZYls3Q0rEP0A
 发现之旅,http://38.75.136.137:82/live1/jsb1.m3u8?id=fxzl&usign=bn1v5XD4HwZYls3Q0rEP0A
@@ -322,6 +327,8 @@ CGTN,http://play.kankanlive.com/live/1698423645566913.m3u8
 发现之旅,http://38.75.136.137:82/live2/bfgd.m3u8?id=4200000151&usign=bn1v5XD4HwZYls3Q0rEP0A
 发现之旅,http://38.75.136.137:82/live1/jdtv2.m3u8?id=fxzl&usign=bn1v5XD4HwZYls3Q0rEP0A
 世界地理,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sjdl
+世界地理,http://192.151.150.154/live/sjdl.m3u8
+世界地理,http://207.56.13.146:81/cdnlive/sjdl.m3u8
 世界地理,http://107.150.60.122/live/sjdl.m3u8
 世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
 世界地理,http://38.75.136.137:82/live1/jsb.m3u8?id=sjdl&usign=bn1v5XD4HwZYls3Q0rEP0A
@@ -329,30 +336,28 @@ CGTN,http://play.kankanlive.com/live/1698423645566913.m3u8
 世界地理,http://38.75.136.137:82/live1/jsb.m3u8?id=sjdl&ip=whus10&usign=bn1v5XD4HwZYls3Q0rEP0A
 世界地理,http://38.75.136.137:82/live1/jsb.m3u8?id=sjdl&ip=whus03&usign=bn1v5XD4HwZYls3Q0rEP0A
 世界地理,http://38.75.136.137:82/live2/bfgd.m3u8?id=4200000177&usign=bn1v5XD4HwZYls3Q0rEP0A
-世界地理,http://38.75.136.137:82/live1/jdtv2.m3u8?id=sjdl&usign=bn1v5XD4HwZYls3Q0rEP0A
-世界地理,http://192.151.150.154/live/sjdl.m3u8
 兵器科技,https://live.264788.xyz/channel/bingqikeji?streamid=6fc55a0966bdad1e1cdf39a4d37dd776&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 兵器科技,https://live.264788.xyz/channel/bingqikeji?streamid=530cb4e58bbc48b7fc26f5e0a2e47966&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 兵器科技,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gfjs
+兵器科技,http://207.56.13.146:81/cdnlive/gfjs.m3u8
 兵器科技,http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
 兵器科技,http://38.75.136.137:98/gslb/dsdqpub/bqkj.m3u8?auth=testpub
 兵器科技,http://38.75.136.137:82/live1/jsb.m3u8?id=gfjs&usign=bn1v5XD4HwZYls3Q0rEP0A
 兵器科技,http://38.75.136.137:82/live1/jsb1.m3u8?id=gfjs&usign=bn1v5XD4HwZYls3Q0rEP0A
 兵器科技,http://38.75.136.137:82/live1/jsb.m3u8?id=gfjs&ip=whus10&usign=bn1v5XD4HwZYls3Q0rEP0A
 兵器科技,http://38.75.136.137:82/live1/jsb.m3u8?id=gfjs&ip=whus03&usign=bn1v5XD4HwZYls3Q0rEP0A
-兵器科技,http://38.75.136.137:82/live1/jdtv2.m3u8?id=gfjs&usign=bn1v5XD4HwZYls3Q0rEP0A
 
 📡卫视频道,#genre#
 湖南卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hnwshd
 湖南卫视,http://74.91.26.218:82/live/hnwshd.m3u8
-湖南卫视,http://173.208.212.130:8181/720p/hnws.m3u8
+湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 湖南卫视,http://107.150.60.122/live/hnwshd.m3u8
 湖南卫视,http://38.75.136.137:98/gslb/dsdqbv/hnwshd.m3u8?auth=test20251009
 湖南卫视,http://38.75.136.137:82/live1/jsb.m3u8?id=hnwshd&usign=bn1v5XD4HwZYls3Q0rEP0A
 湖南卫视,http://38.75.136.137:82/live1/dsdq.m3u8?id=hnwshd&usign=bn1v5XD4HwZYls3Q0rEP0A
 湖南卫视,http://38.75.136.137:82/live1/jsb1.m3u8?id=hnwshd&usign=bn1v5XD4HwZYls3Q0rEP0A
 湖南卫视,http://38.75.136.137:82/live1/jsb.m3u8?id=hnwshd&ip=whus04&usign=bn1v5XD4HwZYls3Q0rEP0A
-湖南卫视,http://38.75.136.137:82/live1/jsb.m3u8?id=hnwshd&ip=whus05&usign=bn1v5XD4HwZYls3Q0rEP0A
 江西卫视,https://live.264788.xyz/channel/jiangxiweishi?streamid=555198f31caa33506ac6abb70d788959&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 江西卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jxwshd
 江西卫视,http://107.150.60.122/live/jxwshd.m3u8
@@ -382,9 +387,8 @@ CGTN,http://play.kankanlive.com/live/1698423645566913.m3u8
 东方卫视,http://38.75.136.137:82/live1/jdtv2.m3u8?id=dfws&usign=bn1v5XD4HwZYls3Q0rEP0A
 东方卫视,http://38.75.136.137:82/live1/jdtv2.m3u8?isp=dx&id=dfws&usign=bn1v5XD4HwZYls3Q0rEP0A
 东方卫视,http://38.75.136.137:82/live1/jdtv2.m3u8?isp=lt&id=dfws&usign=bn1v5XD4HwZYls3Q0rEP0A
-东方卫视,http://112.123.243.37:50085/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
+东方卫视,http://liuwenxiaokevin.top:14044/rtp/233.18.204.224:5140
 江苏卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jswshd
-江苏卫视,http://173.208.212.130:8181/720p/jsws.m3u8
 江苏卫视,http://107.150.60.122/live/jswshd.m3u8
 江苏卫视,http://38.75.136.137:98/gslb/dsdqbv/jswshd.m3u8?auth=test20251009
 江苏卫视,http://38.75.136.137:98/gslb/dsdqpub/jswshd.m3u8?auth=testpub
@@ -393,6 +397,7 @@ CGTN,http://play.kankanlive.com/live/1698423645566913.m3u8
 江苏卫视,http://38.75.136.137:82/live1/jdtv2.m3u8?id=jsws&usign=bn1v5XD4HwZYls3Q0rEP0A
 江苏卫视,http://38.75.136.137:82/live1/jdtv2.m3u8?isp=dx&id=jsws&usign=bn1v5XD4HwZYls3Q0rEP0A
 江苏卫视,http://38.75.136.137:82/live1/jdtv2.m3u8?isp=lt&id=jsws&usign=bn1v5XD4HwZYls3Q0rEP0A
+江苏卫视,http://113.57.140.161:10081/newlive/live/hls/31/live.m3u8
 浙江卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=zjwshd
 浙江卫视,http://107.150.60.122/live/zjwshd.m3u8
 浙江卫视,http://38.75.136.137:98/gslb/dsdqpub/zjwshd.m3u8?auth=testpub
@@ -412,7 +417,6 @@ CGTN,http://play.kankanlive.com/live/1698423645566913.m3u8
 湖北卫视,http://38.75.136.137:82/live1/jdtv2.m3u8?isp=lt&id=hbws&usign=bn1v5XD4HwZYls3Q0rEP0A
 湖北卫视,http://120.76.248.139/live/bfgd/4200000102.m3u8
 湖北卫视,http://118.122.144.115:8888/newlive/live/hls/36/live.m3u8
-湖北卫视,http://vpn.jk960.cn:8686/rtp/239.77.0.95:5146
 广东卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdwshd
 广东卫视,http://107.150.60.122/live/gdwshd.m3u8
 广东卫视,http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub
@@ -431,8 +435,8 @@ CGTN,http://play.kankanlive.com/live/1698423645566913.m3u8
 广西卫视,http://38.75.136.137:82/live1/jdtv2.m3u8?id=gxws&usign=bn1v5XD4HwZYls3Q0rEP0A
 广西卫视,http://38.75.136.137:82/live1/jdtv2.m3u8?isp=dx&id=gxws&usign=bn1v5XD4HwZYls3Q0rEP0A
 广西卫视,http://38.75.136.137:82/live1/jdtv2.m3u8?isp=lt&id=gxws&usign=bn1v5XD4HwZYls3Q0rEP0A
+广西卫视,http://198.204.228.26/live/gxwshd.m3u8
 广西卫视,http://120.76.248.139/live/bfgd/4200000116.m3u8
-广西卫视,http://home.szjim.top:4000/udp/239.253.43.36:5146
 黑龙江卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hljwshd
 黑龙江卫视,http://107.150.60.122/live/hljwshd.m3u8
 黑龙江卫视,http://38.75.136.137:98/gslb/dsdqpub/hljwshd.m3u8?auth=testpub
@@ -441,6 +445,7 @@ CGTN,http://play.kankanlive.com/live/1698423645566913.m3u8
 黑龙江卫视,http://38.75.136.137:82/live1/jdtv2.m3u8?id=hljws&usign=bn1v5XD4HwZYls3Q0rEP0A
 黑龙江卫视,http://38.75.136.137:82/live1/jdtv2.m3u8?isp=dx&id=hljws&usign=bn1v5XD4HwZYls3Q0rEP0A
 黑龙江卫视,http://38.75.136.137:82/live1/jdtv2.m3u8?isp=lt&id=hljws&usign=bn1v5XD4HwZYls3Q0rEP0A
+黑龙江卫视,http://198.204.228.26/live/hljwshd.m3u8
 黑龙江卫视,http://120.76.248.139/live/bfgd/4200000095.m3u8
 海南卫视,http://38.75.136.137:82/live1/xuexi.m3u8?id=lyws&usign=bn1v5XD4HwZYls3Q0rEP0A
 海南卫视,http://38.75.136.137:82/live1/xuexi1.m3u8?id=lyws&usign=bn1v5XD4HwZYls3Q0rEP0A
@@ -487,7 +492,6 @@ CGTN,http://play.kankanlive.com/live/1698423645566913.m3u8
 四川卫视,http://38.75.136.137:82/live1/jsb.m3u8?id=scwshd&ip=whus12&usign=bn1v5XD4HwZYls3Q0rEP0A
 四川卫视,http://38.75.136.137:82/live1/jsb.m3u8?id=scwshd&ip=whus07&usign=bn1v5XD4HwZYls3Q0rEP0A
 河南卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hawshd
-河南卫视,http://173.208.212.130:8181/720p/haws.m3u8
 河南卫视,http://107.150.60.122/live/hawshd.m3u8
 河南卫视,http://38.75.136.137:98/gslb/dsdqpub/hawshd.m3u8?auth=testpub
 河南卫视,http://38.75.136.137:82/live1/xuexi.m3u8?id=haws&usign=bn1v5XD4HwZYls3Q0rEP0A
@@ -496,6 +500,7 @@ CGTN,http://play.kankanlive.com/live/1698423645566913.m3u8
 河南卫视,http://38.75.136.137:82/live1/jdtv2.m3u8?isp=dx&id=haws&usign=bn1v5XD4HwZYls3Q0rEP0A
 河南卫视,http://38.75.136.137:82/live1/jdtv2.m3u8?isp=lt&id=haws&usign=bn1v5XD4HwZYls3Q0rEP0A
 河南卫视,https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=985ebb910dd1e9ad9603ffd7670bd155&wsTime=1791183481
+河南卫视,http://www.nlmxy.top:4000/rtp/233.50.201.144:5140
 东南卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dnwshd
 东南卫视,http://107.150.60.122/live/dnwshd.m3u8
 东南卫视,http://38.75.136.137:98/gslb/dsdqpub/dnwshd.m3u8?auth=testpub
@@ -505,7 +510,6 @@ CGTN,http://play.kankanlive.com/live/1698423645566913.m3u8
 东南卫视,http://38.75.136.137:82/live1/fjtv.m3u8?id=dnws&usign=bn1v5XD4HwZYls3Q0rEP0A
 东南卫视,http://120.76.248.139/live/bfgd/4200000483.m3u8
 东南卫视,http://118.122.144.115:8888/newlive/live/hls/20/live.m3u8
-东南卫视,http://vpn.jk960.cn:8686/rtp/239.77.1.104:5146
 贵州卫视,https://live.264788.xyz/channel/guizhouweishi?streamid=091bd59ea031989839c23459bb8cc9d4&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 贵州卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gzwshd
 贵州卫视,http://107.150.60.122/live/gzwshd.m3u8
@@ -533,8 +537,8 @@ CGTN,http://play.kankanlive.com/live/1698423645566913.m3u8
 安徽卫视,http://38.75.136.137:82/live1/jdtv2.m3u8?id=ahws&usign=bn1v5XD4HwZYls3Q0rEP0A
 安徽卫视,http://38.75.136.137:82/live1/jdtv2.m3u8?isp=dx&id=ahws&usign=bn1v5XD4HwZYls3Q0rEP0A
 安徽卫视,http://38.75.136.137:82/live1/jdtv2.m3u8?isp=lt&id=ahws&usign=bn1v5XD4HwZYls3Q0rEP0A
+安徽卫视,http://198.204.228.26/live/ahwshd.m3u8
 安徽卫视,http://liuwenxiaokevin.top:14044/rtp/233.18.204.93:5140
-安徽卫视,http://204.12.221.218:8181/3m1080p/ahws.m3u8
 河北卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hewshd
 河北卫视,http://38.75.136.137:98/gslb/dsdqpub/hewshd.m3u8?auth=testpub
 河北卫视,http://38.75.136.137:82/live1/xuexi.m3u8?id=hews&usign=bn1v5XD4HwZYls3Q0rEP0A
@@ -544,7 +548,6 @@ CGTN,http://play.kankanlive.com/live/1698423645566913.m3u8
 河北卫视,http://38.75.136.137:82/live1/jdtv2.m3u8?isp=lt&id=hews&usign=bn1v5XD4HwZYls3Q0rEP0A
 河北卫视,http://120.76.248.139/live/bfgd/4200000108.m3u8
 河北卫视,http://118.122.144.115:8888/newlive/live/hls/33/live.m3u8
-河北卫视,http://vpn.jk960.cn:8686/rtp/239.77.0.148:5146
 山东卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sdwshd
 山东卫视,http://107.150.60.122/live/sdwshd.m3u8
 山东卫视,http://38.75.136.137:98/gslb/dsdqpub/sdwshd.m3u8?auth=testpub
@@ -554,7 +557,7 @@ CGTN,http://play.kankanlive.com/live/1698423645566913.m3u8
 山东卫视,http://38.75.136.137:82/live1/jdtv2.m3u8?isp=lt&id=sdws&usign=bn1v5XD4HwZYls3Q0rEP0A
 山东卫视,http://38.75.136.137:82/live1/jdtv2.m3u8?id=sdws&usign=bn1v5XD4HwZYls3Q0rEP0A
 山东卫视,http://38.75.136.137:82/live1/jdtv2.m3u8?isp=dx&id=sdws&usign=bn1v5XD4HwZYls3Q0rEP0A
-山东卫视,http://112.123.243.37:50085/tsfile/live/0122_1.m3u8?key=txiptv&playlive=0&authid=0
+山东卫视,http://198.204.228.26/live/sdwshd.m3u8
 天津卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjwshd
 天津卫视,http://107.150.60.122/live/tjwshd.m3u8
 天津卫视,http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub
@@ -564,15 +567,16 @@ CGTN,http://play.kankanlive.com/live/1698423645566913.m3u8
 天津卫视,http://38.75.136.137:82/live1/jdtv2.m3u8?id=tjws&usign=bn1v5XD4HwZYls3Q0rEP0A
 天津卫视,http://38.75.136.137:82/live1/jdtv2.m3u8?isp=dx&id=tjws&usign=bn1v5XD4HwZYls3Q0rEP0A
 天津卫视,http://153.0.171.163:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,http://hiliu.myds.me:18088/rtp/239.69.1.68:10048
 陕西卫视,https://live.264788.xyz/channel/shaanxiweishi?streamid=9dc887dba8ecb4e4143baf4f2373800c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 陕西卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=snwshd
+陕西卫视,http://192.151.150.154/live/snwshd.m3u8
 陕西卫视,http://107.150.60.122/live/snwshd.m3u8
 陕西卫视,http://38.75.136.137:82/live1/xuexi.m3u8?id=snws&usign=bn1v5XD4HwZYls3Q0rEP0A
 陕西卫视,http://38.75.136.137:82/live1/xuexi1.m3u8?id=snws&usign=bn1v5XD4HwZYls3Q0rEP0A
 陕西卫视,http://38.75.136.137:82/live1/jdtv2.m3u8?isp=lt&id=snws&usign=bn1v5XD4HwZYls3Q0rEP0A
 陕西卫视,http://38.75.136.137:82/live1/jdtv2.m3u8?id=snws&usign=bn1v5XD4HwZYls3Q0rEP0A
 陕西卫视,http://38.75.136.137:82/live1/jdtv2.m3u8?isp=dx&id=snws&usign=bn1v5XD4HwZYls3Q0rEP0A
-陕西卫视,http://192.151.150.154/live/snwshd.m3u8
 内蒙古卫视,https://live.264788.xyz/channel/neimengguweishi?streamid=81a015dbecf3031d7d847b7a9b059f67&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 内蒙古卫视,https://live.264788.xyz/channel/neimengguweishi?streamid=3e7340acf8869ac1c7dad1bb836dcd35&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 内蒙古卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nmgws
@@ -584,13 +588,13 @@ CGTN,http://play.kankanlive.com/live/1698423645566913.m3u8
 内蒙古卫视,http://38.75.136.137:82/live1/xuexi1.m3u8?id=nmgws&usign=bn1v5XD4HwZYls3Q0rEP0A
 内蒙古卫视,http://38.75.136.137:82/live1/jsb.m3u8?id=nmgws&ip=whus14&usign=bn1v5XD4HwZYls3Q0rEP0A
 云南卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ynwshd
+云南卫视,http://192.151.150.154/live/ynwshd.m3u8
 云南卫视,http://107.150.60.122/live/ynwshd.m3u8
 云南卫视,http://38.75.136.137:82/live1/xuexi1.m3u8?id=ynws&usign=bn1v5XD4HwZYls3Q0rEP0A
 云南卫视,http://38.75.136.137:82/live1/xuexi.m3u8?id=ynws&usign=bn1v5XD4HwZYls3Q0rEP0A
 云南卫视,http://38.75.136.137:82/live1/jdtv2.m3u8?isp=lt&id=ynws&usign=bn1v5XD4HwZYls3Q0rEP0A
 云南卫视,http://38.75.136.137:82/live1/jdtv2.m3u8?id=ynws&usign=bn1v5XD4HwZYls3Q0rEP0A
 云南卫视,http://38.75.136.137:82/live1/jdtv2.m3u8?isp=dx&id=ynws&usign=bn1v5XD4HwZYls3Q0rEP0A
-云南卫视,http://192.151.150.154/live/ynwshd.m3u8
 云南卫视,http://120.76.248.139/live/bfgd/4200000482.m3u8
 云南卫视,http://home.szjim.top:4000/udp/239.253.43.37:5146
 甘肃卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gswshd
@@ -704,6 +708,7 @@ CGTN,http://play.kankanlive.com/live/1698423645566913.m3u8
 金鹰纪实,http://38.75.136.137:82/live1/hntv.m3u8?id=hnjyjs&usign=bn1v5XD4HwZYls3Q0rEP0A
 金鹰纪实,http://38.75.136.137:82/live1/jdtv2.m3u8?id=hnjyjs&usign=bn1v5XD4HwZYls3Q0rEP0A
 金鹰纪实,http://woc.iiiya.cn:18888/rtp/239.61.3.7:9560
+金鹰纪实,http://hiliu.myds.me:18088/rtp/239.69.1.109:10292
 湖南爱晚,http://38.75.136.137:82/live1/hntv.m3u8?id=hngg&usign=bn1v5XD4HwZYls3Q0rEP0A
 湖南爱晚,http://38.75.136.137:82/live1/jdtv2.m3u8?isp=dx&id=hngg&usign=bn1v5XD4HwZYls3Q0rEP0A
 湖南爱晚,http://38.75.136.137:82/live1/jdtv2.m3u8?isp=lt&id=hngg&usign=bn1v5XD4HwZYls3Q0rEP0A
@@ -719,8 +724,9 @@ CGTN,http://play.kankanlive.com/live/1698423645566913.m3u8
 湖南国际,http://38.75.136.137:82/live1/jdtv2.m3u8?isp=dx&id=hngj&usign=bn1v5XD4HwZYls3Q0rEP0A
 湖南国际,http://38.75.136.137:82/live1/jdtv2.m3u8?isp=lt&id=hngj&usign=bn1v5XD4HwZYls3Q0rEP0A
 湖南国际,http://38.75.136.137:82/live1/jdtv2.m3u8?id=hngj&usign=bn1v5XD4HwZYls3Q0rEP0A
-湖南公共,http://220.169.100.41:10087/udp/239.76.246.109:1234
 湖南公共,http://119.39.9.8:9901/tsfile/live/1009_1.m3u8
+湖南公共,http://220.169.100.41:10087/udp/239.76.246.109:1234
 
 🌊港·澳·台,#genre#
 香港卫视,https://hkstv.tv/api/m3u8-proxy?url=http%3A%2F%2Fwebcast.hkstv.tv%2Flivestream%2Fmutfysrq%2Fplaylist.m3u8
+凤凰中文,http://183.237.95.108:9901/tsfile/live/1103_1.m3u8?key=txiptv&playlive=0&authid=0
